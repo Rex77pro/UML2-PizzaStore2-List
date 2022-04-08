@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML2 PizzaStore2 List", "UML2 PizzaStore2 List\UML2 PizzaStore2 List.csproj", "{D6618291-6153-432F-BBAB-D9DE61514666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6618291-6153-432F-BBAB-D9DE61514666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6618291-6153-432F-BBAB-D9DE61514666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6618291-6153-432F-BBAB-D9DE61514666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6618291-6153-432F-BBAB-D9DE61514666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B97D254-5D57-4267-9022-EF635CD57C95}
+	EndGlobalSection
+EndGlobal
